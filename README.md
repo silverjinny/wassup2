@@ -4,7 +4,7 @@
 
 ## *About Me*
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilverjinny%2Fwassup2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
-안녕하세요👋 WASSUP AI서비스기획 과정 2기 수료중인 윤은진 입니다. 
+안녕하세요👋 WASSUP AI서비스기획 과정 2기 수료중인 윤은진 입니다. 서비스와 사용자를 연결해주는 기획자가 되고 싶습니다. 이 페이지에 제가 그동안 남겨왔던, 앞으로 남길 기록들을 모으는 공간으로 활용하고자 합니다. 반갑습니다 :)
 <br><br>
 
 ## *Tool*
@@ -37,7 +37,7 @@ WASSUP 2기에 참여하며 공부한 내용들입니다. <br>
 <br><br>
 
 ## *Projects*
-|img|project name|duration|explation|link|
+|img|project name|duration|explanation|link|
 |------|---|---|---|---|
 |<img width=80 src="https://postfiles.pstatic.net/MjAyNDAyMjdfMjky/MDAxNzA5MDM3OTgxMTk0.Lugur_MwSxXebe9KGIAZrMsQf1yekX7oeUMSqIxUSuQg.gWKNsPnofyC7PDdgq1PHEJfYxGhbeBFWmv6viGgrMhkg.PNG/image.png?type=w773">|POPLE Credit|2021.08-2022.04|자발적 탄소시장 크레딧거래 플랫폼(B2B2C)으로, 탄소 감축 사업자들에게는 탄소 감축 사업 등록, 모니터링, 크레딧 발급 서비스를 제공하고, 개인 및 기업이 크레딧을 구매하여 상쇄에 활용 할 수 있도록 한 서비스 입니다.<br>👉 크레딧 마켓플레이스/레지스트리/어드민 서비스 기획, uxui 기획/디자인에 참여했습니다.|[marketplace](https://www.pople.kr/marketplace/list),</br>[registry](https://www.pople.credit/)|
 |<img width=80 src="https://play-lh.googleusercontent.com/Z_ChVfxwzvw9HjO52UDvOSBm8-5jzYxfuuIiRvIWwgORLVdH20xnMPaRh1fuY-laaUMr">|POPLE World|2022.08-2023.12|e-mobility를 등록 및 관리하고, POPLE Station 및 배터리 충전소를 이용하기 위한 앱입니다. 사용자는 주행거리에 따라 탄소 감축 포인트를 리워드로 받을 수 있습니다.<br>👉 서비스 기획, uxui 기획 및 디자인에 참여했습니다.|[NFT](https://www.pople.world/), [app](https://play.google.com/store/apps/details?id=com.verywords.popleworld&hl=ko-KR)|
@@ -49,7 +49,7 @@ WASSUP 2기에 참여하며 공부한 내용들입니다. <br>
 
 <br><br>
 ## *Experience*
-|img|name|duration|explation|link|
+|img|name|duration|explanation|link|
 |------|---|---|---|---|
 |<img width=80 src="https://www.handong.edu/dcp/editor/images/01_free_school.png">|청소년 자유학교|2016.02 - 2020.12|교육의 사각지대에 있는 학생들을 위한 대안 교육기관인 포항 청소년 자유학교에서 5년간 봉사했습니다. 학생들의 검정고시를 위해 교과목 수업을 진행하고, 총무과장을 맡아 학생들 상담 및 학교 운영 예산을 관리하였습니다.|[소개영상](https://www.youtube.com/watch?v=aQWiEGBSqnY)|
 |<img width=80 src="https://postfiles.pstatic.net/MjAyNDAyMjdfMjMz/MDAxNzA5MDM1NDI4MDgy.Y5GhWgh-GRphprM_2YvObv-XREd9vf8l1CCYIwSu3aAg.tn3HVjj4_Qf4rrQkGf2anR7UYCvW9uqYiGwV3jL1nVQg.JPEG/20240227_203709.jpg?type=w773">|UXUI학회 The Answer 21기|2019.08 - 2019.06|UX/UI 학회에 참여하여 학회원들과 함께 관련 서적 및 아티클을 읽고 서로의 생각을 공유했습니다. 학회원들과 Drive-thru를 위한 인터랙션 환경 개선 프로젝트를 진행하여 주행중인 운전자의 인포테인먼트 시스템 사용 문제점을 파악하고 새로운 카 커머스 시스템의 인포테인먼트 UX 및 디자인 방향성을 제시하고자 하였습니다. |-|
